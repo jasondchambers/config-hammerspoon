@@ -18,9 +18,9 @@ These are the shortcuts:
 
 | Key | Launches |
 |---|---|
-| cmd+s | Slack |
-| cmd+n | Notion |
-| cmd+g | Github |
-| cmd+\<return\> | Alacritty |
-| cmd+e | Gmail |
-| cmd+o | Obsidian |
+| option+s | Slack |
+| option+n | Notion |
+| option+g | Github |
+| option+\<return\> | Alacritty |
+| option+e | Gmail |
+| option+o | Obsidian |
