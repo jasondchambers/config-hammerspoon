@@ -11,8 +11,9 @@ keyboard shortcuts.
 [Hammerspoon](https://www.hammerspoon.org) is used to configure keyboard shortcuts on macOS. The keyboard
 shortcuts are designed to be as close to [Hyprland shortcuts](https://github.com/jasondchambers/config-hypr/blob/main/bindings.conf) as possible.
 
-Once you have installed [Hammerspoon](https://www.hammerspoon.org), simply copy
-init.lua into ~/.hammerspoon/
+To install:
+
+    ./install.sh
 
 These are the shortcuts:
 
