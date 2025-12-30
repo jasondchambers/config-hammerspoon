@@ -15,13 +15,3 @@ To install:
 
     ./install.sh
 
-These are the shortcuts:
-
-| Key | Launches |
-|---|---|
-| option+s | Slack |
-| option+n | Notion |
-| option+g | Github |
-| option+\<return\> | Alacritty |
-| option+e | Gmail |
-| option+o | Obsidian |
